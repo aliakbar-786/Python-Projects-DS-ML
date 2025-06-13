@@ -1,0 +1,142 @@
+<records>
+    <entry>
+        <id>21</id>
+        <date>2024-06-01</date>
+        <sales>1500</sales>
+        <region>North</region>
+        <promotion>Deal X</promotion>
+    </entry>
+    <entry>
+        <id>22</id>
+        <date>2024-06-02</date>
+        <sales>1600</sales>
+        <region>South</region>
+        <promotion>Deal Y</promotion>
+    </entry>
+    <entry>
+        <id>23</id>
+        <date>2024-06-03</date>
+        <sales>1700</sales>
+        <region>East</region>
+        <promotion>Deal Z</promotion>
+    </entry>
+    <entry>
+        <id>24</id>
+        <date>2024-06-04</date>
+        <sales>1800</sales>
+        <region>West</region>
+        <promotion>Deal W</promotion>
+    </entry>
+    <entry>
+        <id>25</id>
+        <date>2024-06-05</date>
+        <sales>1900</sales>
+        <region>North</region>
+        <promotion>Deal V</promotion>
+    </entry>
+    <entry>
+        <id>26</id>
+        <date>2024-06-06</date>
+        <sales>2000</sales>
+        <region>South</region>
+        <promotion>Deal U</promotion>
+    </entry>
+    <entry>
+        <id>27</id>
+        <date>2024-06-07</date>
+        <sales>2100</sales>
+        <region>East</region>
+        <promotion>Deal T</promotion>
+    </entry>
+    <entry>
+        <id>28</id>
+        <date>2024-06-08</date>
+        <sales>2200</sales>
+        <region>West</region>
+        <promotion>Deal S</promotion>
+    </entry>
+    <entry>
+        <id>29</id>
+        <date>2024-06-09</date>
+        <sales>2300</sales>
+        <region>North</region>
+        <promotion>Deal R</promotion>
+    </entry>
+    <entry>
+        <id>30</id>
+        <date>2024-06-10</date>
+        <sales>2400</sales>
+        <region>South</region>
+        <promotion>Deal Q</promotion>
+    </entry>
+    <entry>
+        <id>31</id>
+        <date>2024-06-11</date>
+        <sales>2500</sales>
+        <region>East</region>
+        <promotion>Deal P</promotion>
+    </entry>
+    <entry>
+        <id>32</id>
+        <date>2024-06-12</date>
+        <sales>2600</sales>
+        <region>West</region>
+        <promotion>Deal O</promotion>
+    </entry>
+    <entry>
+        <id>33</id>
+        <date>2024-06-13</date>
+        <sales>2700</sales>
+        <region>North</region>
+        <promotion>Deal N</promotion>
+    </entry>
+    <entry>
+        <id>34</id>
+        <date>2024-06-14</date>
+        <sales>2800</sales>
+        <region>South</region>
+        <promotion>Deal M</promotion>
+    </entry>
+    <entry>
+        <id>35</id>
+        <date>2024-06-15</date>
+        <sales>2900</sales>
+        <region>East</region>
+        <promotion>Deal L</promotion>
+    </entry>
+    <entry>
+        <id>36</id>
+        <date>2024-06-16</date>
+        <sales>3000</sales>
+        <region>West</region>
+        <promotion>Deal K</promotion>
+    </entry>
+    <entry>
+        <id>37</id>
+        <date>2024-06-17</date>
+        <sales>3100</sales>
+        <region>North</region>
+        <promotion>Deal J</promotion>
+    </entry>
+    <entry>
+        <id>38</id>
+        <date>2024-06-18</date>
+        <sales>3200</sales>
+        <region>South</region>
+        <promotion>Deal I</promotion>
+    </entry>
+    <entry>
+        <id>39</id>
+        <date>2024-06-19</date>
+        <sales>3300</sales>
+        <region>East</region>
+        <promotion>Deal H</promotion>
+    </entry>
+    <entry>
+        <id>40</id>
+        <date>2024-06-20</date>
+        <sales>3400</sales>
+        <region>West</region>
+        <promotion>Deal G</promotion>
+    </entry>
+</records>

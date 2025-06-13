@@ -1,0 +1,142 @@
+<records>
+    <entry>
+        <id>1</id>
+        <date>2024-05-01</date>
+        <sales>1500</sales>
+        <region>North</region>
+        <promotion>Discount A</promotion>
+    </entry>
+    <entry>
+        <id>2</id>
+        <date>2024-05-02</date>
+        <sales>1600</sales>
+        <region>South</region>
+        <promotion>Discount B</promotion>
+    </entry>
+    <entry>
+        <id>3</id>
+        <date>2024-05-03</date>
+        <sales>1700</sales>
+        <region>East</region>
+        <promotion>Discount C</promotion>
+    </entry>
+    <entry>
+        <id>4</id>
+        <date>2024-05-04</date>
+        <sales>1800</sales>
+        <region>West</region>
+        <promotion>Discount D</promotion>
+    </entry>
+    <entry>
+        <id>5</id>
+        <date>2024-05-05</date>
+        <sales>1900</sales>
+        <region>North</region>
+        <promotion>Discount E</promotion>
+    </entry>
+    <entry>
+        <id>6</id>
+        <date>2024-05-06</date>
+        <sales>2000</sales>
+        <region>South</region>
+        <promotion>Discount F</promotion>
+    </entry>
+    <entry>
+        <id>7</id>
+        <date>2024-05-07</date>
+        <sales>2100</sales>
+        <region>East</region>
+        <promotion>Discount G</promotion>
+    </entry>
+    <entry>
+        <id>8</id>
+        <date>2024-05-08</date>
+        <sales>2200</sales>
+        <region>West</region>
+        <promotion>Discount H</promotion>
+    </entry>
+    <entry>
+        <id>9</id>
+        <date>2024-05-09</date>
+        <sales>2300</sales>
+        <region>North</region>
+        <promotion>Discount I</promotion>
+    </entry>
+    <entry>
+        <id>10</id>
+        <date>2024-05-10</date>
+        <sales>2400</sales>
+        <region>South</region>
+        <promotion>Discount J</promotion>
+    </entry>
+    <entry>
+        <id>11</id>
+        <date>2024-05-11</date>
+        <sales>2500</sales>
+        <region>East</region>
+        <promotion>Discount K</promotion>
+    </entry>
+    <entry>
+        <id>12</id>
+        <date>2024-05-12</date>
+        <sales>2600</sales>
+        <region>West</region>
+        <promotion>Discount L</promotion>
+    </entry>
+    <entry>
+        <id>13</id>
+        <date>2024-05-13</date>
+        <sales>2700</sales>
+        <region>North</region>
+        <promotion>Discount M</promotion>
+    </entry>
+    <entry>
+        <id>14</id>
+        <date>2024-05-14</date>
+        <sales>2800</sales>
+        <region>South</region>
+        <promotion>Discount N</promotion>
+    </entry>
+    <entry>
+        <id>15</id>
+        <date>2024-05-15</date>
+        <sales>2900</sales>
+        <region>East</region>
+        <promotion>Discount O</promotion>
+    </entry>
+    <entry>
+        <id>16</id>
+        <date>2024-05-16</date>
+        <sales>3000</sales>
+        <region>West</region>
+        <promotion>Discount P</promotion>
+    </entry>
+    <entry>
+        <id>17</id>
+        <date>2024-05-17</date>
+        <sales>3100</sales>
+        <region>North</region>
+        <promotion>Discount Q</promotion>
+    </entry>
+    <entry>
+        <id>18</id>
+        <date>2024-05-18</date>
+        <sales>3200</sales>
+        <region>South</region>
+        <promotion>Discount R</promotion>
+    </entry>
+    <entry>
+        <id>19</id>
+        <date>2024-05-19</date>
+        <sales>3300</sales>
+        <region>East</region>
+        <promotion>Discount S</promotion>
+    </entry>
+    <entry>
+        <id>20</id>
+        <date>2024-05-20</date>
+        <sales>3400</sales>
+        <region>West</region>
+        <promotion>Discount T</promotion>
+    </entry>
+</records>

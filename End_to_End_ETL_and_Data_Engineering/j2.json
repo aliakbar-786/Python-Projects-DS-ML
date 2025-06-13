@@ -1,0 +1,22 @@
+[
+    {"id": 21, "date": "2024-02-01", "sales": 1600, "region": "North", "category": "Books"},
+    {"id": 22, "date": "2024-02-02", "sales": 1800, "region": "South", "category": "Toys"},
+    {"id": 23, "date": "2024-02-03", "sales": 2100, "region": "East", "category": "Sports"},
+    {"id": 24, "date": "2024-02-04", "sales": 2300, "region": "West", "category": "Books"},
+    {"id": 25, "date": "2024-02-05", "sales": 2600, "region": "North", "category": "Toys"},
+    {"id": 26, "date": "2024-02-06", "sales": 2400, "region": "South", "category": "Sports"},
+    {"id": 27, "date": "2024-02-07", "sales": 2700, "region": "East", "category": "Books"},
+    {"id": 28, "date": "2024-02-08", "sales": 2900, "region": "West", "category": "Toys"},
+    {"id": 29, "date": "2024-02-09", "sales": 3100, "region": "North", "category": "Sports"},
+    {"id": 30, "date": "2024-02-10", "sales": 3300, "region": "South", "category": "Books"},
+    {"id": 31, "date": "2024-02-11", "sales": 3500, "region": "East", "category": "Toys"},
+    {"id": 32, "date": "2024-02-12", "sales": 3700, "region": "West", "category": "Sports"},
+    {"id": 33, "date": "2024-02-13", "sales": 3900, "region": "North", "category": "Books"},
+    {"id": 34, "date": "2024-02-14", "sales": 4100, "region": "South", "category": "Toys"},
+    {"id": 35, "date": "2024-02-15", "sales": 4300, "region": "East", "category": "Sports"},
+    {"id": 36, "date": "2024-02-16", "sales": 4500, "region": "West", "category": "Books"},
+    {"id": 37, "date": "2024-02-17", "sales": 4700, "region": "North", "category": "Toys"},
+    {"id": 38, "date": "2024-02-18", "sales": 4900, "region": "South", "category": "Sports"},
+    {"id": 39, "date": "2024-02-19", "sales": 5100, "region": "East", "category": "Books"},
+    {"id": 40, "date": "2024-02-20", "sales": 5300, "region": "West", "category": "Toys"}
+]

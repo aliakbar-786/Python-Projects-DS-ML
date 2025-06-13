@@ -1,0 +1,22 @@
+[
+    {"id": 1, "date": "2024-01-01", "sales": 1500, "region": "North", "category": "Electronics"},
+    {"id": 2, "date": "2024-01-02", "sales": 1700, "region": "South", "category": "Clothing"},
+    {"id": 3, "date": "2024-01-03", "sales": 2000, "region": "East", "category": "Furniture"},
+    {"id": 4, "date": "2024-01-04", "sales": 2200, "region": "West", "category": "Electronics"},
+    {"id": 5, "date": "2024-01-05", "sales": 2500, "region": "North", "category": "Clothing"},
+    {"id": 6, "date": "2024-01-06", "sales": 2300, "region": "South", "category": "Furniture"},
+    {"id": 7, "date": "2024-01-07", "sales": 2600, "region": "East", "category": "Electronics"},
+    {"id": 8, "date": "2024-01-08", "sales": 2800, "region": "West", "category": "Clothing"},
+    {"id": 9, "date": "2024-01-09", "sales": 3000, "region": "North", "category": "Furniture"},
+    {"id": 10, "date": "2024-01-10", "sales": 3200, "region": "South", "category": "Electronics"},
+    {"id": 11, "date": "2024-01-11", "sales": 3400, "region": "East", "category": "Clothing"},
+    {"id": 12, "date": "2024-01-12", "sales": 3600, "region": "West", "category": "Furniture"},
+    {"id": 13, "date": "2024-01-13", "sales": 3800, "region": "North", "category": "Electronics"},
+    {"id": 14, "date": "2024-01-14", "sales": 4000, "region": "South", "category": "Clothing"},
+    {"id": 15, "date": "2024-01-15", "sales": 4200, "region": "East", "category": "Furniture"},
+    {"id": 16, "date": "2024-01-16", "sales": 4400, "region": "West", "category": "Electronics"},
+    {"id": 17, "date": "2024-01-17", "sales": 4600, "region": "North", "category": "Clothing"},
+    {"id": 18, "date": "2024-01-18", "sales": 4800, "region": "South", "category": "Furniture"},
+    {"id": 19, "date": "2024-01-19", "sales": 5000, "region": "East", "category": "Electronics"},
+    {"id": 20, "date": "2024-01-20", "sales": 5200, "region": "West", "category": "Clothing"}
+]
